@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Cypress specific files
+cypress/videos/
+cypress/screenshots/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
