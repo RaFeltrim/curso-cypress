@@ -9,9 +9,6 @@ describe('Página de Cadastro', () => {
     cy.get('[data-test="submit-button"]').click();
 
 
-
-
-
     
     // //Visitar a página principal e clicando no botão 'Ver pets siponíveis para adoção'
     // cy.visit('https://adopet-frontend-cypress.vercel.app/');
