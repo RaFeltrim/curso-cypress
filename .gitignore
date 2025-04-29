@@ -5,6 +5,7 @@ yarn.lock
 
 # Cypress specific files
 cypress/videos/
+cypress/reports/
 cypress/screenshots/
 
 # Logs and temporary files
