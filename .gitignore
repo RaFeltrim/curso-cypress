@@ -8,7 +8,7 @@ cypress/videos/
 cypress/screenshots/
 
 # Logs and temporary files
-*.log
+*.logs
 *.tmp
 *.swp
 
@@ -20,3 +20,4 @@ cypress/screenshots/
 # OS generated files
 .DS_Store
 Thumbs.db
+
