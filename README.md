@@ -95,8 +95,6 @@ README.md
 ---
 
 ## 👩‍💻 Autor(a)
-Feito com 💚 durante os estudos de automação de testes!
-
 Rafael Feltrim  
 
 
