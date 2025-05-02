@@ -7,7 +7,6 @@ yarn.lock
 cypress/videos/
 cypress/reports/
 cypress/screenshots/
-
 # Logs and temporary files
 *.logs
 *.tmp
@@ -17,6 +16,7 @@ cypress/screenshots/
 .env
 .env.local
 .env.*.local
+cypress.env.json
 
 # OS generated files
 .DS_Store
